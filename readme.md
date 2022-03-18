@@ -48,9 +48,11 @@ _your text_
 >>>Quote three sentences    
     
     
- 插入圖片語法
+ 插入圖片語法 I:
 ![GITHUB]( 圖片網址 "圖片名稱") 
+ 插入圖片語法 II:
 ![Pexel](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg "test_pic")
+ 插入圖片語法 III:
 ![GITHUB](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg "test_pic")
   
 
