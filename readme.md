@@ -3,6 +3,25 @@ readme.md  用法範例 // ref:
 粗體 
 **bold**
 
+粗體
+
+*your text*
+斜體
+
+_your text_
+刪除線
+
+~your text~
+小區塊
+
+`Format one word or one line`
+大區塊
+
+    ```
+    Format blocks of text
+    ```
+
+
 # <h1> 標題字 This is an  tag
 
 ## <h2> 次標題字 This is an  tag
@@ -24,7 +43,9 @@ readme.md  用法範例 // ref:
     ```
   
  插入圖片語法
-![GITHUB]( ./"pexels-1040.jpg")
+![GITHUB]( 圖片網址 "圖片名稱") 
+![](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg)
+![GITHUB](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg)
   
 
   > Quote one sentences
