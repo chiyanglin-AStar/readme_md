@@ -50,7 +50,7 @@ _your text_
     
  插入圖片語法
 ![GITHUB]( 圖片網址 "圖片名稱") 
-![](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg "test_pic")
+![Pexel](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg "test_pic")
 ![GITHUB](https://github.com/chiyanglin-AStar/readme_md/blob/main/pexels-1040.jpg "test_pic")
   
 
